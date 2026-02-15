@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Subscribe To xMiles_Games";
-    Text = "Subscribe For More Scripts"; -- what the text says (ofc)
+    Title = "Hitbox Expander";
+    Text = "Hitbox Expander"; 
     Duration = 60;
 })
 
